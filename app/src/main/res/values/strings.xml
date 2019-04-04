@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">prova296</string>
+    <string name="str_saluto">Hello</string>
+</resources>
